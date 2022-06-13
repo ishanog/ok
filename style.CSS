@@ -125,7 +125,7 @@
 }
 
 .secRight{
-    background: rgba(0, 0, 0, 0.7) url('img/pexels-photo-235985.jpeg');
+    background: rgba(0, 0, 0, 0.7) url('./pexels-photo-235985.jpeg');
     background-size: cover;
     background-blend-mode: darken;
 }
